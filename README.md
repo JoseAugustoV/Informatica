@@ -8,8 +8,8 @@ trabalho executado via canva: animações e figuras
 https://www.canva.com/design/DAHBPtOYYOY/Y91XJG3HZsJTJRS_PR7yhA/edit?utm_content=DAHBPtOYYOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Atividade de Informática - Excel
-Balancete de receitas de fevereiro com representação gráfica (Link:[balancete_receita - josé augusto.xlsx](https://github.com/user-attachments/files/26732096/balancete_receita.-.jose.augusto.xlsx)
- )
+Balancete de receitas de fevereiro com representação gráfica (Link:[balancete_receita.-.jose.augusto.xlsx](https://github.com/user-attachments/files/26805678/balancete_receita.-.jose.augusto.xlsx)
+
 TIPOS DE DESPESAS
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11de933f-e96b-4f56-a9a8-adff9e59142c" />
 BALANCETE - RECEITA
