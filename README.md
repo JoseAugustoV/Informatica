@@ -94,9 +94,3 @@ Atividade de informática no PowerBI - sinistros 2026 (link:https://mail.google.
 <img width="1497" height="763" alt="image" src="https://github.com/user-attachments/assets/9bfcc105-f2fc-4af6-8a71-61fcf1241a87" />
 
 Com todos os Gráficos estruturados, é possível afirmar que nenhuma característica (sozinha) afeta diretamente a qualidade do vinho. Nesse contexto, não é plausível o uso da regressão linear simples. Deve-se utilizar a regressão linear composta, que leva em consideração todas as características em conjunto.
-
-## PIB - Municípios:
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/178877b8-d9f5-4c07-af86-73f6ba587f4f" />
-
-## Perguntas:
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/c37c766d-5b2a-4996-9f06-675f827fd6b2" />
