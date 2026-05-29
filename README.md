@@ -2,9 +2,11 @@
 Repositório que contém as atividades de informática do aluno José Augusto - 2026
 # inform-tica-
 material criado na disciplina de informatica no CPS em logística 
+
 ## apresentação em equipe utilizando software de design gráfico 
 trabalho executado via canva: animações e figuras
-<img width="1204" height="677" alt="image" src="https://github.com/user-attachments/assets/edffc771-1613-4ff0-956d-a6bb475d2581" />
+<img width="1109" height="623" alt="image" src="https://github.com/user-attachments/assets/7ef0240b-4e65-4cbb-9f7e-328539a34e51" />
+
 https://www.canva.com/design/DAHBPtOYYOY/Y91XJG3HZsJTJRS_PR7yhA/edit?utm_content=DAHBPtOYYOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Atividade de Informática - Excel
